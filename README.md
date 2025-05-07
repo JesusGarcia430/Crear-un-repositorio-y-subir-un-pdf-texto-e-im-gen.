@@ -26,4 +26,4 @@
  y el desarrollo de tecnicas de procesamiento de im´ agenes en diferentes aplicaciones y
  escenarios
 
-[Descargar PDF](/docs/contributor/assets/adobe_standard_D.pdf)
+[Descargar PDF](https://github.com/JesusGarcia430/Crear-un-repositorio-y-subir-un-pdf-texto-e-im-gen./blob/main/D.pdf)

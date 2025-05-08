@@ -1,4 +1,4 @@
-![Portada](/docs/contributor/assets/adobe_standard_p.png)
+![Portada](https://github.com/JesusGarcia430/Crear-un-repositorio-y-subir-un-pdf-texto-e-im-gen./blob/main/p.jpg)
 
 # Resumen
 
